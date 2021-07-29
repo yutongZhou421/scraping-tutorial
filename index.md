@@ -114,9 +114,57 @@ print(frequencyPair)
 
 
 
+
+
+
+
+1. 'capital': 56, 
+
+2. 'world': 52, 
+
+3. 'temple': 50, 
+
+4. 'national': 33, 
+
+5. 'airport': 30, 
+
+6. 'people': 28, 
+
+7. 'center': 28, 
+
+8. \'dynasty': 28, 
+
+9. 'first': 27,  
+
+10. 'railway': 25, 
+
+11. 'international': 25, 
+
+12. 'government': 25, 
+
+13. 'municipality': 24, 
+
+14. 'largest': 23, 
+
+15. 'population': 22, 
+
+16. 'district': 22,
+
+17. 'air': 22, 
+
+18. 'northern': 21, 
+
+19. 'including': 21, 
+
+20. 'ring': 21, 
+
+    
+
+![7_London]()
+
 ![8_Mumbai](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/8_Mumbai.jpg)
 
-![8_San_Fracisco](/Users/yutongzhou/Documents/GitHub/scrapingTutorial/wordclouds/8_San_Fracisco.jpg)
+![8_San_Fracisco](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/8_San_Fracisco.jpg)
 
 ![10_hangzhou](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/10_hangzhou.jpg)
 
