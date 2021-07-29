@@ -122,10 +122,9 @@ print(frequencyPair)
 
 
 
-[8-San-Fracisco][https://postimg.cc/V0v2nqGT]
+![8-San-Fracisco][https://postimg.cc/V0v2nqGT]
 
-[8-Mumbai](https://postimg.cc/ZvTGfkfW)
+![8-Mumbai](https://postimg.cc/ZvTGfkfW)
 
-[10-Hangzhou](https://postimg.cc/yD5Zhsf8)
+![10-Hangzhou](https://postimg.cc/yD5Zhsf8)
 
-[https://postimg.cc/V0v2nqGT]: https://postimg.cc/V0v2nqGT
