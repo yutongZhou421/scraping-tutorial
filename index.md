@@ -77,6 +77,7 @@ def wordListToFreq(words):
     return dict(list(zip(words,wordfreq)))
 ```
 
+
 Calling this frequency count function on the result of the content filtering will complete the frequency check. 
 The following code is the complete version:
 
@@ -115,7 +116,10 @@ print(frequencyPair)
 
 ```
 
+
+
 To illustrate the result, I used wordclouds to display the words. Each word's size corresponds to its absolute frequency.
+
 
 ![1 Beijing](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/1_beijing.jpg)
 
