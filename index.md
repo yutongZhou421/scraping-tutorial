@@ -68,6 +68,8 @@ def frequencyCheck(content):
 
 2. Step: Frequency count
 
+In this step, I counted the absolute frequency of every word from the filtered content. The idea is to use a dictionary to map the word and its frequency count. The following function shall do the trick:
+
 ```python
 # #frequency check
 def wordListToFreq(words):
@@ -75,7 +77,8 @@ def wordListToFreq(words):
     return dict(list(zip(words,wordfreq)))
 ```
 
-
+Calling this frequency count function on the result of the content filtering will complete the frequency check. 
+The following code is the complete version:
 
 ```python
 # #frequency check
@@ -112,7 +115,7 @@ print(frequencyPair)
 
 ```
 
-Result
+To illustrate the result, I used wordclouds to display the words. Each word's size corresponds to its absolute frequency.
 
 ![1 Beijing](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/1_beijing.jpg)
 
