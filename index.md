@@ -112,60 +112,26 @@ print(frequencyPair)
 
 ```
 
+Result
 
+![1 Beijing](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/1_beijing.jpg)
 
+![2 New York City](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/2_nyc.jpg)
 
+![3 Hong Kong](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/3_hongkong.jpg)
 
+![4 Moscow](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/4_moscow.jpg)
 
+![5 Shenzhen](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/5_shenzhen.jpg)
 
-1. 'capital': 56, 
+![6 Shanghai](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/6_shanghai.jpg)
 
-2. 'world': 52, 
+![7 London](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/7_london.jpg)
 
-3. 'temple': 50, 
+![8 Mumbai](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/8_Mumbai.jpg)
 
-4. 'national': 33, 
+![8 San Fracisco](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/8_San_Fracisco.jpg)
 
-5. 'airport': 30, 
-
-6. 'people': 28, 
-
-7. 'center': 28, 
-
-8. \'dynasty': 28, 
-
-9. 'first': 27,  
-
-10. 'railway': 25, 
-
-11. 'international': 25, 
-
-12. 'government': 25, 
-
-13. 'municipality': 24, 
-
-14. 'largest': 23, 
-
-15. 'population': 22, 
-
-16. 'district': 22,
-
-17. 'air': 22, 
-
-18. 'northern': 21, 
-
-19. 'including': 21, 
-
-20. 'ring': 21, 
-
-    
-
-![7_London]()
-
-![8_Mumbai](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/8_Mumbai.jpg)
-
-![8_San_Fracisco](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/8_San_Fracisco.jpg)
-
-![10_hangzhou](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/10_hangzhou.jpg)
+![10 Hangzhou](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/10_hangzhou.jpg)
 
 
