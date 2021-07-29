@@ -114,10 +114,10 @@ print(frequencyPair)
 
 
 
-![8_Mumbai](/Users/yutongzhou/Documents/GitHub/scrapingTutorial/wordclouds/8_Mumbai.jpg)
+![8_Mumbai](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/8_Mumbai.jpg)
 
 ![8_San_Fracisco](/Users/yutongzhou/Documents/GitHub/scrapingTutorial/wordclouds/8_San_Fracisco.jpg)
 
-![10_hangzhou](/Users/yutongzhou/Documents/GitHub/scrapingTutorial/wordclouds/10_hangzhou.jpg)
+![10_hangzhou](https://github.com/yutongZhou421/scraping-tutorial/blob/main/wordclouds/10_hangzhou.jpg)
 
 
