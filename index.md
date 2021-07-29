@@ -34,7 +34,7 @@ During tokenization, one should consider how to filter the content. Since the ta
 
 After knowing what I wanted, I chose to use `regexp_tokenize()` from `nltk` because I wanted to remove all punctuations and numbers, since they do not contribute to semantic interpretation. Using regexp makes things a lot easier.
 
-There are some other tokenizers from `nltk`, for example the function`word_tokenize()`, which extracts both characters and numbers based on Legality Principle and Onset Maximization. ([Read about Legality principle][http://www.nltk.org/_modules/nltk/tokenize/legality_principle.html])
+There are some other tokenizers from `nltk`, for example the function`word_tokenize()`, which extracts both characters and numbers based on Legality Principle and Onset Maximization. ([Read about Legality principle]<http://www.nltk.org/_modules/nltk/tokenize/legality_principle.html>)
 
 Another problem regarding purifying the content is that there are words which occur at high frequency but do not say much about the city, for example "the", "it", etc. These are called the stop words and `nltk` provides a list of common stop words (`nltk.corpus.stopwords.words('...')`) for a user-selected language. 
 
