@@ -66,7 +66,7 @@ def frequencyCheck(content):
 
 ```
 
-2. Step:
+2. Step: Frequency count
 
 ```python
 # #frequency check
